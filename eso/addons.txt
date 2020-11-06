@@ -1,0 +1,16 @@
+1146    LibCustomMenu
+1272    BetterUI :: Gamepad Interface Improvements
+1302    LibMapPing
+1399    Votan's Minimap
+1703    Circular Votan's Mini Map
+185     CustomCompassPins
+2125    LibAsync
+2484    LibUespQuestData
+2625    LibQuestData
+288     Lorebooks
+563     LibMapPins
+584     LibHarvensAddonsSettings
+601     LibGPS
+65      Inventory Grid View
+667     Destinations
+7       LibAddonMenu
