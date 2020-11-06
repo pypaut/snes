@@ -2,9 +2,12 @@
 
 ### What is it ?
 
-I could not launch Minion on Linux, so I had the idea to build it myself.
+I failed in launching Minion on Linux, so I had the idea to build it myself.
 Not quite yet, but the `eso.sh` script will automate the installation of AddOns
 for ESO (for a basic Steam Play/ProtonDB installation).
+
+It is worth mentioning that you can simply re-execute the script to update all
+your AddOns to their latest version.
 
 ### What to know
 
